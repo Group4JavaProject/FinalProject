@@ -1,0 +1,24 @@
+Requirements Included: (noted in comments for most features, imports not noted but can clearly be seen on the top of the class files)
+  Scanner Class
+  Variables,
+  Constants
+  switch statement
+  conditional operator
+  using this keyword
+  Inheritance
+  Abstract Classes
+  Encapsulation
+  Method overloading
+  Arrays
+  Constructor
+  Super Keyword
+  Exception handling
+  Using Java library class such as Date, Random etc
+  Println, printf methods
+  Static variable and Static methods
+  Recursion
+
+
+Requirements Extras Not Included:
+  Abstract Interfaces
+  Method overriding
